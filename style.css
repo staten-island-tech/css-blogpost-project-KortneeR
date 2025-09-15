@@ -1,0 +1,11 @@
+html,
+body,
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url("chiikawa ending screen.png");
+  background-repeat: no-repeat;
+  color: rgb(240, 144, 144);
+  font-family: 'Lexend', sans-serif;
+}
