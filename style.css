@@ -2,7 +2,7 @@ html,
 body,
 * {
   padding: 20px;
-  margin: 0;
+  margin: 10px;
   box-sizing: border-box;
 
   color: rgb(240, 144, 144);
